@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... changing careers
 - 🌱 I’m currently learning ... front-end development
 - 💞️ I’m looking to collaborate on ... anything new and exciting
-- 📫 How to reach me ... kfretouch@gmail.com
+- 📫 How to reach me ... kirstenfenwickh@gmail.com
 
 <!---
 kirstf/kirstf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
